@@ -1,0 +1,11 @@
+{
+  "name": "woaid-gulp-page",
+  "version": "1.0.0",
+  "description": "static webapp workflow",
+  "main": "index.js",
+  "author": "woiad",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
